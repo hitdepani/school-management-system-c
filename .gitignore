@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.o
+
+# Runtime data
+students.txt
+log.txt
+temp.txt
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store

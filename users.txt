@@ -1,0 +1,2 @@
+admin admin123 ADMIN
+teacher teach123 VIEW
